@@ -25,3 +25,5 @@ function search(array, target, leftIndex, rightIndex) {
 // Array must be sort
 console.log(recursiveBinarySearch([2, 6, 4, 7, 10], 10));
 console.log(recursiveBinarySearch([2, 6, 8, 10, 17, 18], 5));
+
+// Big-O = O(logn)
